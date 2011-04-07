@@ -1,0 +1,1 @@
+jar cvmf AlignHits.mf AlignHits.jar *.class
